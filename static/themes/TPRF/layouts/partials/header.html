@@ -1,2 +1,102 @@
 <h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <img src="/images/tprf-lolo.png">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/about.html" id="aboutDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        About
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
+                        <li><a class="dropdown-item" href="http://news.perlfoundation.org/" target="_blank">News</a></li>
+                        <li><a class="dropdown-item" href="/the-board1.html">The Board</a></li>
+                        <li><a class="dropdown-item" href="/advisory_board.html">Advisory Board</a></li>
+                        <li><a class="dropdown-item" href="/committees.html">Committees</a></li>
+                        <li><a class="dropdown-item" href="/get-involved.html">Get Involved</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/donate.html" id="donateDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Donate
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="donateDropdown">
+                        <li><a class="dropdown-item" href="/our-donors.html">Our Donors</a></li>
+                        <li><a class="dropdown-item" href="/payments.html">Payments</a></li>
+                        <li><a class="dropdown-item" href="/how-do-sponsors-benefit.html">How Do Sponsors Benefit?</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/grants.html" id="grantsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Grants
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="grantsDropdown">
+                        <li><a class="dropdown-item" href="/running-grants.html">Running Grants</a></li>
+                        <li><a class="dropdown-item" href="/grants-committee1.html">Grants Committee</a></li>
+                        <li><a class="dropdown-item" href="/grant-benefits.html">Grant Benefits</a></li>
+                        <li><a class="dropdown-item" href="/grant-ideas.html">Grant Ideas</a></li>
+                        <li><a class="dropdown-item" href="/how-to-write-a-proposal.html">How to Write a Proposal</a></li>
+                        <li><a class="dropdown-item" href="/perl-core-development-fund.html">Perl Core Development Fund</a></li>
+                        <li><a class="dropdown-item" href="/raku-development-fund.html">Raku Development Fund</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="eventsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Events
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="eventsDropdown">
+                        <li><a class="dropdown-item" href="https://tprc.us/tprc-2024-las/" target="_blank">The Perl and Raku Conference NA</a></li>
+                        <li><a class="dropdown-item" href="http://www.yapceurope.org/" target="_blank">YAPC Europe</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/legal.html" id="legalDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Legal
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="legalDropdown">
+                        <li><a class="dropdown-item" href="/articles.html">Articles</a></li>
+                        <li><a class="dropdown-item" href="/trademarks.html">Trademarks</a></li>
+                        <li><a class="dropdown-item" href="/license-faq.html">License FAQ</a></li>
+                        <li><a class="dropdown-item" href="/artistic-license-20.html">Artistic License 2.0</a></li>
+                        <li><a class="dropdown-item" href="/artistic-notes-20.html">Artistic Notes 2.0</a></li>
+                        <li><a class="dropdown-item" href="/artistic-license-10.html">Artistic License 1.0</a></li>
+                        <li><a class="dropdown-item" href="/cpan-licensing-guidelines.html">CPAN Licensing Guidelines</a></li>
+                        <li><a class="dropdown-item" href="/contributor-license-agreement.html">Contributor License Agreement</a></li>
+                        <li><a class="dropdown-item" href="/conflict-of-interest-policy.html">Conflict of Interest Policy</a></li>
+                        <li><a class="dropdown-item" href="/irs-filings.html">IRS Filings</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="chartersDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Charters
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="chartersDropdown">
+                        <li><a class="dropdown-item" href="/marketing-committee.html">Marketing Committee</a></li>
+                        <li><a class="dropdown-item" href="/grants-committee.html">Grants Committee</a></li>
+                        <li><a class="dropdown-item" href="/community-advocacy-committee.html">Community Advocacy Committee</a></li>
+                        <li><a class="dropdown-item" href="/bylaws.html">Bylaws</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/project-support.html">Project Support</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/download.html">Download</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://the-perl-store.creator-spring.com/" target="_blank">Perl Merchandise</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://tprc.us/tprc-2024-las/" target="_blank">The Perl and Raku Conference</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
