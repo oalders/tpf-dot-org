@@ -1,0 +1,268 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'My New Hugo Site'
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "/about.html"
+  weight = 2
+  identifier = "about"
+  hasChildren = true
+
+  [[menu.main]]
+  parent = "about"
+  name = "News"
+  url = "http://news.perlfoundation.org/"
+  weight = 1
+  target = "_blank"
+
+  [[menu.main]]
+  parent = "about"
+  name = "The Board"
+  url = "/the-board1.html"
+  weight = 2
+
+  [[menu.main]]
+  parent = "about"
+  name = "Advisory Board"
+  url = "/advisory_board.html"
+  weight = 3
+
+  [[menu.main]]
+  parent = "about"
+  name = "Committees"
+  url = "/committees.html"
+  weight = 4
+
+  [[menu.main]]
+  parent = "about"
+  name = "Get Involved"
+  url = "/get-involved.html"
+  weight = 5
+
+  [[menu.main]]
+  name = "Donate"
+  url = "/donate.html"
+  weight = 3
+  identifier = "donate"
+  hasChildren = true
+
+  [[menu.main]]
+  parent = "donate"
+  name = "Our Donors"
+  url = "/our-donors.html"
+  weight = 1
+
+  [[menu.main]]
+  parent = "donate"
+  name = "Payments"
+  url = "/payments.html"
+  weight = 2
+
+  [[menu.main]]
+  parent = "donate"
+  name = "How Do Sponsors Benefit?"
+  url = "/how-do-sponsors-benefit.html"
+  weight = 3
+
+  [[menu.main]]
+  name = "Grants"
+  url = "/grants.html"
+  weight = 4
+  identifier = "grants"
+  hasChildren = true
+
+  [[menu.main]]
+  parent = "grants"
+  name = "Running Grants"
+  url = "/running-grants.html"
+  weight = 1
+
+  [[menu.main]]
+  parent = "grants"
+  name = "Grants Committee"
+  url = "/grants-committee1.html"
+  weight = 2
+
+  [[menu.main]]
+  parent = "grants"
+  name = "Grant Benefits"
+  url = "/grant-benefits.html"
+  weight = 3
+
+  [[menu.main]]
+  parent = "grants"
+  name = "Grant Ideas"
+  url = "/grant-ideas.html"
+  weight = 4
+
+  [[menu.main]]
+  parent = "grants"
+  name = "How to Write a Proposal"
+  url = "/how-to-write-a-proposal.html"
+  weight = 5
+
+  [[menu.main]]
+  parent = "grants"
+  name = "Perl Core Development Fund"
+  url = "/perl-core-development-fund.html"
+  weight = 6
+
+  [[menu.main]]
+  parent = "grants"
+  name = "Raku Development Fund"
+  url = "/raku-development-fund.html"
+  weight = 7
+
+  [[menu.main]]
+  name = "Events"
+  url = "#"
+  weight = 5
+  identifier = "events"
+  hasChildren = true
+
+  [[menu.main]]
+  parent = "events"
+  name = "The Perl and Raku Conference NA"
+  url = "https://tprc.us/tprc-2024-las/"
+  weight = 1
+  target = "_blank"
+
+  [[menu.main]]
+  parent = "events"
+  name = "YAPC Europe"
+  url = "http://www.yapceurope.org/"
+  weight = 2
+  target = "_blank"
+
+  [[menu.main]]
+  name = "Legal"
+  url = "/legal.html"
+  weight = 6
+  identifier = "legal"
+  hasChildren = true
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Articles"
+  url = "/articles.html"
+  weight = 1
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Trademarks"
+  url = "/trademarks.html"
+  weight = 2
+
+  [[menu.main]]
+  parent = "legal"
+  name = "License FAQ"
+  url = "/license-faq.html"
+  weight = 3
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Artistic License 2.0"
+  url = "/artistic-license-20.html"
+  weight = 4
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Artistic Notes 2.0"
+  url = "/artistic-notes-20.html"
+  weight = 5
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Artistic License 1.0"
+  url = "/artistic-license-10.html"
+  weight = 6
+
+  [[menu.main]]
+  parent = "legal"
+  name = "CPAN Licensing Guidelines"
+  url = "/cpan-licensing-guidelines.html"
+  weight = 7
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Contributor License Agreement"
+  url = "/contributor-license-agreement.html"
+  weight = 8
+
+  [[menu.main]]
+  parent = "legal"
+  name = "Conflict of Interest Policy"
+  url = "/conflict-of-interest-policy.html"
+  weight = 9
+
+  [[menu.main]]
+  parent = "legal"
+  name = "IRS Filings"
+  url = "/irs-filings.html"
+  weight = 10
+
+  [[menu.main]]
+  name = "Charters"
+  url = "#"
+  weight = 7
+  identifier = "charters"
+  hasChildren = true
+
+  [[menu.main]]
+  parent = "charters"
+  name = "Marketing Committee"
+  url = "/marketing-committee.html"
+  weight = 1
+
+  [[menu.main]]
+  parent = "charters"
+  name = "Grants Committee"
+  url = "/grants-committee.html"
+  weight = 2
+
+  [[menu.main]]
+  parent = "charters"
+  name = "Community Advocacy Committee"
+  url = "/community-advocacy-committee.html"
+  weight = 3
+
+  [[menu.main]]
+  parent = "charters"
+  name = "Bylaws"
+  url = "/bylaws.html"
+  weight = 4
+
+  [[menu.main]]
+  name = "Project Support"
+  url = "/project-support.html"
+  weight = 8
+
+  [[menu.main]]
+  name = "Download"
+  url = "/download.html"
+  weight = 9
+
+  [[menu.main]]
+  name = "Perl Merchandise"
+  url = "https://the-perl-store.creator-spring.com/"
+  weight = 10
+  target = "_blank"
+
+  [[menu.main]]
+  name = "The Perl and Raku Conference"
+  url = "https://tprc.us/tprc-2024-las/"
+  weight = 11
+  target = "_blank"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
