@@ -1,0 +1,118 @@
+************ _[[_TT_hh_ee_ _PP_ee_rr_ll_ _aa_nn_dd_ _RR_aa_kk_uu_ _FF_oo_uu_nn_dd_aa_tt_ii_oo_nn_]] ************
+    * _H_o_m_e
+    * _A_b_o_u_t
+          o _N_e_w_s
+          o _T_h_e_ _B_o_a_r_d
+          o _A_d_v_i_s_o_r_y_ _B_o_a_r_d
+          o _C_o_m_m_i_t_t_e_e_s
+          o _G_e_t_ _I_n_v_o_l_v_e_d
+    * _D_o_n_a_t_e
+          o _O_u_r_ _D_o_n_o_r_s
+          o _P_a_y_m_e_n_t_s
+          o _H_o_w_ _D_o_ _S_p_o_n_s_o_r_s_ _B_e_n_e_f_i_t_?
+    * _G_r_a_n_t_s
+          o _R_u_n_n_i_n_g_ _G_r_a_n_t_s
+          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
+          o _G_r_a_n_t_ _B_e_n_e_f_i_t_s
+          o _G_r_a_n_t_ _I_d_e_a_s
+          o _H_o_w_ _t_o_ _W_r_i_t_e_ _a_ _P_r_o_p_o_s_a_l
+          o _P_e_r_l_ _C_o_r_e_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
+          o _R_a_k_u_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
+    * Events
+          o _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e_ _N_A
+          o _Y_A_P_C_ _E_u_r_o_p_e
+    * _L_e_g_a_l
+          o _A_r_t_i_c_l_e_s
+          o _T_r_a_d_e_m_a_r_k_s
+          o _L_i_c_e_n_s_e_ _F_A_Q
+          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _2_._0
+          o _A_r_t_i_s_t_i_c_ _N_o_t_e_s_ _2_._0
+          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _1_._0
+          o _C_P_A_N_ _L_i_c_e_n_s_i_n_g_ _G_u_i_d_e_l_i_n_e_s
+          o _C_o_n_t_r_i_b_u_t_o_r_ _L_i_c_e_n_s_e_ _A_g_r_e_e_m_e_n_t
+          o _C_o_n_f_l_i_c_t_ _o_f_ _I_n_t_e_r_e_s_t_ _P_o_l_i_c_y
+          o _I_R_S_ _F_i_l_i_n_g_s
+    * Charters
+          o _M_a_r_k_e_t_i_n_g_ _C_o_m_m_i_t_t_e_e
+          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
+          o _C_o_m_m_u_n_i_t_y_ _A_d_v_o_c_a_c_y_ _C_o_m_m_i_t_t_e_e
+          o _B_y_l_a_w_s
+    * _P_r_o_j_e_c_t_ _S_u_p_p_o_r_t
+    * _D_o_w_n_l_o_a_d
+    * _P_e_r_l_ _M_e_r_c_h_a_n_d_i_s_e
+    * _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e
+    * _H_o_m_e
+    * _A_b_o_u_t
+          o _N_e_w_s
+          o _T_h_e_ _B_o_a_r_d
+          o _A_d_v_i_s_o_r_y_ _B_o_a_r_d
+          o _C_o_m_m_i_t_t_e_e_s
+          o _G_e_t_ _I_n_v_o_l_v_e_d
+    * _D_o_n_a_t_e
+          o _O_u_r_ _D_o_n_o_r_s
+          o _P_a_y_m_e_n_t_s
+          o _H_o_w_ _D_o_ _S_p_o_n_s_o_r_s_ _B_e_n_e_f_i_t_?
+    * _G_r_a_n_t_s
+          o _R_u_n_n_i_n_g_ _G_r_a_n_t_s
+          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
+          o _G_r_a_n_t_ _B_e_n_e_f_i_t_s
+          o _G_r_a_n_t_ _I_d_e_a_s
+          o _H_o_w_ _t_o_ _W_r_i_t_e_ _a_ _P_r_o_p_o_s_a_l
+          o _P_e_r_l_ _C_o_r_e_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
+          o _R_a_k_u_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
+    * Events
+          o _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e_ _N_A
+          o _Y_A_P_C_ _E_u_r_o_p_e
+    * _L_e_g_a_l
+          o _A_r_t_i_c_l_e_s
+          o _T_r_a_d_e_m_a_r_k_s
+          o _L_i_c_e_n_s_e_ _F_A_Q
+          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _2_._0
+          o _A_r_t_i_s_t_i_c_ _N_o_t_e_s_ _2_._0
+          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _1_._0
+          o _C_P_A_N_ _L_i_c_e_n_s_i_n_g_ _G_u_i_d_e_l_i_n_e_s
+          o _C_o_n_t_r_i_b_u_t_o_r_ _L_i_c_e_n_s_e_ _A_g_r_e_e_m_e_n_t
+          o _C_o_n_f_l_i_c_t_ _o_f_ _I_n_t_e_r_e_s_t_ _P_o_l_i_c_y
+          o _I_R_S_ _F_i_l_i_n_g_s
+    * Charters
+          o _M_a_r_k_e_t_i_n_g_ _C_o_m_m_i_t_t_e_e
+          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
+          o _C_o_m_m_u_n_i_t_y_ _A_d_v_o_c_a_c_y_ _C_o_m_m_i_t_t_e_e
+          o _B_y_l_a_w_s
+    * _P_r_o_j_e_c_t_ _S_u_p_p_o_r_t
+    * _D_o_w_n_l_o_a_d
+    * _P_e_r_l_ _M_e_r_c_h_a_n_d_i_s_e
+    * _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e
+********** HHooww ttoo WWrriittee aa PPrrooppoossaall **********
+Your proposal should include:
+    * Project Title and Synopsis
+    * Your name
+    * A discussion on the benefits of the project to the Perl Community
+    * A list of deliverables
+    * Project details and a proposed schedule
+    * Your biography
+    * The requested amount for the Project Grant, preferably in US dollars.
+
+Submit your proposal via this _g_o_o_g_l_e_ _f_o_r_m.
+
+All the proposals will be published at _T_h_e_ _P_e_r_l_ _F_o_u_n_d_a_t_i_o_n_ _N_e_w_s site to gather
+community feedback. You can see previous proposals here, and follow the blog to
+see when new rounds of grants are being considered.
+
+Nationality/Residency: With the proposal, applicant(s) will be required to
+provide their 1) nationality and 2) country of residence. This information is
+required as residents and nationals of countries who we are prohibited by U.S.
+law from engaging in commerce are ineligible to participate. If you intend to
+move during the grant process, please include details. TThhiiss iinnffoorrmmaattiioonn wwiillll bbee
+nneeiitthheerr ddiisscclloosseedd ttoo tthhee ppuubblliicc nnoorr uusseedd iinn tthhee vvoottiinngg pprroocceessss..
+For queries, more information or assistance with preparing proposals, please
+contact the _T_P_F_ _g_r_a_n_t_s_ _s_e_c_r_e_t_a_r_y.
+===============================================================================
+********** YYeett AAnnootthheerr SSoocciieettyy          Donations keep the Perl & Raku Foundation
+((DDBBAA)) TThhee PPeerrll AAnndd RRaakkuu FFoouunnddaattiioonn alive and we appreciate all of our donors,
+444400 NN BBaarrrraannccaa AAvvee                 past, present, and future.
+##66005555 CCoovviinnaa,, CCAA
+9911772233 UUNNIITTEEDD SSTTAATTEESS                ???You can donate online or send a check with
+                                   your contribution.
+eemmaaiill::_ _[[_ee_mm_aa_ii_ll_? _pp_rr_oo_tt_ee_cc_tt_ee_dd_]] **********     ???Click Donate to get started.
+                                   _D_o_n_a_t_e
