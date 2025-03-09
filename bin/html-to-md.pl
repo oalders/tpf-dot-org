@@ -3,18 +3,15 @@ use strict;
 use warnings;
 use Mojo::DOM      ();
 use HTML::Restrict ();
+use Path::Tiny qw( path );
 
 # Check if a file name is provided
 if ( @ARGV != 1 ) {
     die "Usage: $0 <filename>\n";
 }
 
-my $filename = $ARGV[0];
-
-# Open the file and read its content
-open my $fh, '<', $filename or die "Could not open file '$filename': $!\n";
-my $html_content = do { local $/; <$fh> };
-close $fh;
+my $file = path($ARGV[0]);
+my $html_content = $file->slurp;
 
 # Parse the HTML with Mojo::DOM
 my $dom = Mojo::DOM->new($html_content);
