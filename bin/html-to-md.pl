@@ -3,7 +3,6 @@
 use v5.40;
 
 use utf8;
-use Encode qw(decode encode);
 use Mojo::DOM            ();
 use Mojo::Util           qw( trim );
 use HTML::Restrict       ();
@@ -62,6 +61,7 @@ END_FRONTMATTER
                         a   => [qw( href )],
                         img => [qw( src alt / )],
                         li  => [],
+                        ul  => [],
                     }
                 );
                 my $plain_text = $hr->process($inner_html);
@@ -88,11 +88,15 @@ END_FRONTMATTER
                     }
                 );
 
-                $plain_dom->find('li')->each(
+                $plain_dom->find('ul')->each(
                     sub {
-                        my $li      = shift;
-                        my $content = trim( $li->content );
-                        $li->replace( '- ' . $content );
+                        my $ul = shift;
+                        $ul->find('li')->each(
+                            sub {
+                                my $li = shift;
+                                process_li( $li, 0 );
+                            }
+                        );
                     }
                 );
 
@@ -107,4 +111,23 @@ END_FRONTMATTER
     else {
         die "No div with class 'wsite-section-content' found in the file.\n";
     }
+}
+
+sub process_li {
+    my ( $li, $level ) = @_;
+    $li->find('ul')->each(
+        sub {
+            my $ul = shift;
+            process_li( $ul, $level + 1 );
+        }
+    );
+    my $content = trim( $li->all_text );
+    $li->replace( ' ' x $level . '- ' . $content );
+
+    $li->find('li')->each(
+        sub {
+            my $nested_li = shift;
+            process_li( $nested_li, $level );
+        }
+    );
 }
