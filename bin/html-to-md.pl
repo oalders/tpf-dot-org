@@ -21,7 +21,14 @@ while ( defined( my $file = $next->() ) ) {
 
 sub convert_file ($file) {
     my $html_content = $file->slurp;
-    my $target = path('hugo/content')->child($file->basename('.html') . '.md');
+    my $basename = $file->basename('.html') . '.md';
+
+    # If the file is missing the leading underscore, none of the other pages in
+    # the folder will be built.
+    if ($basename eq 'index.md') {
+        $basename = '_index.md';
+    }
+    my $target = path('hugo/content')->child($basename);
     $target->remove;
     my $url = $file->basename;
 
@@ -39,7 +46,7 @@ url:   "/$url"
 END_FRONTMATTER
 
     if ( $divs->size ) {
-        $target->append($frontmatter);
+        $target->append_raw($frontmatter);
 
         $divs->each(
             sub {
@@ -83,7 +90,7 @@ END_FRONTMATTER
                 my @lines    = map { trim($_) } split m{\n}, $plain_text;
                 my $filtered = join "\n", @lines;
                 $filtered =~ s{\n{2,}}{\n\n}g;
-                $target->append($filtered);
+                $target->append_raw($filtered);
             }
         );
     }
