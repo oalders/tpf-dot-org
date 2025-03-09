@@ -60,7 +60,8 @@ END_FRONTMATTER
                 my $hr = HTML::Restrict->new(
                     rules => {
                         a   => [qw( href )],
-                        img => [qw( src alt / )]
+                        img => [qw( src alt / )],
+                        li  => [],
                     }
                 );
                 my $plain_text = $hr->process($inner_html);
@@ -84,6 +85,14 @@ END_FRONTMATTER
                             $text = '🤔🤔🤔 ';
                         }
                         $a->replace("[$text]($href)");
+                    }
+                );
+
+                $plain_dom->find('li')->each(
+                    sub {
+                        my $li      = shift;
+                        my $content = trim( $li->content );
+                        $li->replace( '- ' . $content );
                     }
                 );
 
