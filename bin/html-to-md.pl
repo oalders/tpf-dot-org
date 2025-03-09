@@ -21,7 +21,7 @@ while ( defined( my $file = $next->() ) ) {
 
 sub convert_file ($file) {
     my $html_content = $file->slurp;
-    my $target = path('static/content')->child($file->basename('.html') . '.md');
+    my $target = path('hugo/content')->child($file->basename('.html') . '.md');
     $target->remove;
     my $url = $file->basename;
 
