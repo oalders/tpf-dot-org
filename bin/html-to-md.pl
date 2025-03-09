@@ -29,7 +29,11 @@ if ( $divs->size ) {
 
             # Remove all tags using HTML::Restrict
             my $hr = HTML::Restrict->new(
-                rules => { img => [qw( src alt / )] } );
+                rules => {
+                    a   => [qw( href )],
+                    img => [qw( src alt / )]
+                }
+            );
             my $plain_text = $hr->process($inner_html);
 
             # Print the cleaned content
