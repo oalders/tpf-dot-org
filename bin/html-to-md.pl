@@ -2,30 +2,31 @@
 
 use v5.40;
 
-use Mojo::DOM      ();
-use Mojo::Util     qw( trim );
-use HTML::Restrict ();
+use utf8;
+use Encode qw(decode encode);
+use Mojo::DOM            ();
+use Mojo::Util           qw( trim );
+use HTML::Restrict       ();
 use Path::Iterator::Rule ();
-use Path::Tiny     qw( path );
+use Path::Tiny           qw( path );
 
-my $rule = Path::Iterator::Rule->new; # match anything
-my $next = $rule->iter( 'www.perlfoundation.org' );
+my $rule = Path::Iterator::Rule->new;               # match anything
+my $next = $rule->iter('www.perlfoundation.org');
 while ( defined( my $file = $next->() ) ) {
     if ( $file !~ m{\.html\z} ) {
         next;
     }
     say $file;
-    convert_file(path($file));
+    convert_file( path($file) );
 }
 
-
 sub convert_file ($file) {
-    my $html_content = $file->slurp;
-    my $basename = $file->basename('.html') . '.md';
+    my $html_content = $file->slurp_utf8;
+    my $basename     = $file->basename('.html') . '.md';
 
     # If the file is missing the leading underscore, none of the other pages in
     # the folder will be built.
-    if ($basename eq 'index.md') {
+    if ( $basename eq 'index.md' ) {
         $basename = '_index.md';
     }
     my $target = path('hugo/content')->child($basename);
@@ -46,7 +47,7 @@ url:   "/$url"
 END_FRONTMATTER
 
     if ( $divs->size ) {
-        $target->append_raw($frontmatter);
+        $target->append_utf8($frontmatter);
 
         $divs->each(
             sub {
@@ -90,7 +91,7 @@ END_FRONTMATTER
                 my @lines    = map { trim($_) } split m{\n}, $plain_text;
                 my $filtered = join "\n", @lines;
                 $filtered =~ s{\n{2,}}{\n\n}g;
-                $target->append_raw($filtered);
+                $target->append_utf8($filtered);
             }
         );
     }
