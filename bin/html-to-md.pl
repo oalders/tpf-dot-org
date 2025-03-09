@@ -59,6 +59,7 @@ END_FRONTMATTER
                 my $hr = HTML::Restrict->new(
                     rules => {
                         a   => [qw( href )],
+                        br  => [],
                         img => [qw( src alt / )],
                         li  => [],
                         ul  => [],
@@ -67,6 +68,9 @@ END_FRONTMATTER
                 my $plain_text = $hr->process($inner_html);
 
                 my $plain_dom = Mojo::DOM->new($plain_text);
+
+                $plain_dom->find('br')
+                    ->each( sub { my $br = shift; $br->replace("\n"); } );
 
                 # Convert "a" elements to markdown links
                 $plain_dom->find('a')->each(
