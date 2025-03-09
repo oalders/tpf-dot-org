@@ -75,15 +75,22 @@ END_FRONTMATTER
                 # Convert "a" elements to markdown links
                 $plain_dom->find('a')->each(
                     sub {
-                        my $a = shift;
-                        print $a->content;
+                        my $a    = shift;
                         my $href = $a->attr('href');
                         my $text = trim( $a->text );
                         if ( !$text ) {
                             my $child = $a->children->first;
                             if ( $child && $child->attr('src') ) {
                                 $text = '/images/' . $child->attr('src');
-                                $a->replace("[![Picture]($text)]($href)");
+
+                                # there are things like this:
+                                # <a> <img alt="Picture" src="uploads/1/0/6/6/106663517/perl-r-demo_orig.png"></a>
+                                if ($href) {
+                                    $a->replace("[![Picture]($text)]($href)");
+                                }
+                                else {
+                                    $a->replace("[![Picture]($text)]");
+                                }
                                 return;
                             }
                             $text = '🤔🤔🤔 ';
