@@ -70,7 +70,9 @@ if ( $divs->size ) {
 
             $plain_text = $plain_dom->all_text;
             my @lines = map { trim($_) } split m{\n}, $plain_text;
-            print join "\n", @lines;
+            my $filtered = join "\n", @lines;
+            $filtered =~ s{\n{2,}}{\n\n}g;
+            print $filtered;
         }
     );
 }
