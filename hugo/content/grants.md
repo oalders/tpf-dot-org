@@ -1,134 +1,59 @@
-************ _[[_TT_hh_ee_ _PP_ee_rr_ll_ _aa_nn_dd_ _RR_aa_kk_uu_ _FF_oo_uu_nn_dd_aa_tt_ii_oo_nn_]] ************
-    * _H_o_m_e
-    * _A_b_o_u_t
-          o _N_e_w_s
-          o _T_h_e_ _B_o_a_r_d
-          o _A_d_v_i_s_o_r_y_ _B_o_a_r_d
-          o _C_o_m_m_i_t_t_e_e_s
-          o _G_e_t_ _I_n_v_o_l_v_e_d
-    * _D_o_n_a_t_e
-          o _O_u_r_ _D_o_n_o_r_s
-          o _P_a_y_m_e_n_t_s
-          o _H_o_w_ _D_o_ _S_p_o_n_s_o_r_s_ _B_e_n_e_f_i_t_?
-    * _G_r_a_n_t_s
-          o _R_u_n_n_i_n_g_ _G_r_a_n_t_s
-          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
-          o _G_r_a_n_t_ _B_e_n_e_f_i_t_s
-          o _G_r_a_n_t_ _I_d_e_a_s
-          o _H_o_w_ _t_o_ _W_r_i_t_e_ _a_ _P_r_o_p_o_s_a_l
-          o _P_e_r_l_ _C_o_r_e_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
-          o _R_a_k_u_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
-    * Events
-          o _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e_ _N_A
-          o _Y_A_P_C_ _E_u_r_o_p_e
-    * _L_e_g_a_l
-          o _A_r_t_i_c_l_e_s
-          o _T_r_a_d_e_m_a_r_k_s
-          o _L_i_c_e_n_s_e_ _F_A_Q
-          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _2_._0
-          o _A_r_t_i_s_t_i_c_ _N_o_t_e_s_ _2_._0
-          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _1_._0
-          o _C_P_A_N_ _L_i_c_e_n_s_i_n_g_ _G_u_i_d_e_l_i_n_e_s
-          o _C_o_n_t_r_i_b_u_t_o_r_ _L_i_c_e_n_s_e_ _A_g_r_e_e_m_e_n_t
-          o _C_o_n_f_l_i_c_t_ _o_f_ _I_n_t_e_r_e_s_t_ _P_o_l_i_c_y
-          o _I_R_S_ _F_i_l_i_n_g_s
-    * Charters
-          o _M_a_r_k_e_t_i_n_g_ _C_o_m_m_i_t_t_e_e
-          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
-          o _C_o_m_m_u_n_i_t_y_ _A_d_v_o_c_a_c_y_ _C_o_m_m_i_t_t_e_e
-          o _B_y_l_a_w_s
-    * _P_r_o_j_e_c_t_ _S_u_p_p_o_r_t
-    * _D_o_w_n_l_o_a_d
-    * _P_e_r_l_ _M_e_r_c_h_a_n_d_i_s_e
-    * _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e
-    * _H_o_m_e
-    * _A_b_o_u_t
-          o _N_e_w_s
-          o _T_h_e_ _B_o_a_r_d
-          o _A_d_v_i_s_o_r_y_ _B_o_a_r_d
-          o _C_o_m_m_i_t_t_e_e_s
-          o _G_e_t_ _I_n_v_o_l_v_e_d
-    * _D_o_n_a_t_e
-          o _O_u_r_ _D_o_n_o_r_s
-          o _P_a_y_m_e_n_t_s
-          o _H_o_w_ _D_o_ _S_p_o_n_s_o_r_s_ _B_e_n_e_f_i_t_?
-    * _G_r_a_n_t_s
-          o _R_u_n_n_i_n_g_ _G_r_a_n_t_s
-          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
-          o _G_r_a_n_t_ _B_e_n_e_f_i_t_s
-          o _G_r_a_n_t_ _I_d_e_a_s
-          o _H_o_w_ _t_o_ _W_r_i_t_e_ _a_ _P_r_o_p_o_s_a_l
-          o _P_e_r_l_ _C_o_r_e_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
-          o _R_a_k_u_ _D_e_v_e_l_o_p_m_e_n_t_ _F_u_n_d
-    * Events
-          o _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e_ _N_A
-          o _Y_A_P_C_ _E_u_r_o_p_e
-    * _L_e_g_a_l
-          o _A_r_t_i_c_l_e_s
-          o _T_r_a_d_e_m_a_r_k_s
-          o _L_i_c_e_n_s_e_ _F_A_Q
-          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _2_._0
-          o _A_r_t_i_s_t_i_c_ _N_o_t_e_s_ _2_._0
-          o _A_r_t_i_s_t_i_c_ _L_i_c_e_n_s_e_ _1_._0
-          o _C_P_A_N_ _L_i_c_e_n_s_i_n_g_ _G_u_i_d_e_l_i_n_e_s
-          o _C_o_n_t_r_i_b_u_t_o_r_ _L_i_c_e_n_s_e_ _A_g_r_e_e_m_e_n_t
-          o _C_o_n_f_l_i_c_t_ _o_f_ _I_n_t_e_r_e_s_t_ _P_o_l_i_c_y
-          o _I_R_S_ _F_i_l_i_n_g_s
-    * Charters
-          o _M_a_r_k_e_t_i_n_g_ _C_o_m_m_i_t_t_e_e
-          o _G_r_a_n_t_s_ _C_o_m_m_i_t_t_e_e
-          o _C_o_m_m_u_n_i_t_y_ _A_d_v_o_c_a_c_y_ _C_o_m_m_i_t_t_e_e
-          o _B_y_l_a_w_s
-    * _P_r_o_j_e_c_t_ _S_u_p_p_o_r_t
-    * _D_o_w_n_l_o_a_d
-    * _P_e_r_l_ _M_e_r_c_h_a_n_d_i_s_e
-    * _T_h_e_ _P_e_r_l_ _a_n_d_ _R_a_k_u_ _C_o_n_f_e_r_e_n_c_e
-********** GGrraannttss **********
-_G_r_a_n_t_s
-Funding projects within the greater Perl and Raku communities enables
-developers, educators, and The Perl Foundation to advance the use and
-understanding of Perl and Raku in the wider software development community. 
+---
+title: "Grants - The Perl and Raku Foundation"
+url:   "/grants.html"
+---
+GrantsGrants
+Funding projects within the greater Perl and Raku
+communities enables developers, educators, and The Perl
+Foundation to advance the use and understanding of Perl and
+Raku in the wider software development community.
 
-Grant recipients have the opportunity to focus their considerable talents on
-important projects that can directly benefit tens of thousands of Perl and Raku
-users around the world. Grants may cover a variety of ground, from core
-language improvements to documentation and tutorials. 
+Grant
+recipients have the opportunity to focus their considerable
+talents on important projects that can directly benefit tens
+of thousands of Perl and Raku users around the world. Grants
+may cover a variety of ground, from core language
+improvements to documentation and tutorials.
 
-Want to help but are stuck for ideas? There's a _c_u_r_a_t_e_d_ _l_i_s_t_ _o_f_ _i_d_e_a_s from our
-community of grant ideas to choose from. 
+Want
+to help but are stuck for ideas? There's a
+[curated list of ideas](https://grants.perlfoundation.org/)
+from our community of grant ideas to choose from.
 
-AAbboouutt tthhee CCoommmmiitttteeee
-The Grants Committee was formed in 2003 to oversee the allocation of grant
-funding within The Perl Foundation. The individuals chosen to be committee
-members represent a wide range of positions and talents within the Perl and
-Raku communities (from core Perl and Raku developers to CPAN module developers,
-and everything in between).
+### About the Committee
+The Grants Committee was formed in 2003 to oversee
+the allocation of grant funding within The Perl Foundation.
+The individuals chosen to be committee members represent a
+wide range of positions and talents within the Perl and Raku
+communities (from core Perl and Raku developers to CPAN
+module developers, and everything in between).
 
-While grant requests can be submitted at any time, the Committee opens a call
-for grant proposals every two months. During this two week window, grant
-requests are posted for public feedback and refined before they are evaluated
-by the Grants Committee. The committee members then review and vote on any
-proposals. Grants that are approved are funded by TPF, and assigned a manager
-for the duration of the grant to act as a liaison between the grantee and TPF.
-This manager is usually a member of the Grants Committee.
+While
+grant requests can be submitted at any time, the Committee
+opens a call for grant proposals every two months. During
+this two week window, grant requests are posted for public
+feedback and refined before they are evaluated by the Grants
+Committee. The committee members then review and vote on any
+proposals. Grants that are approved are funded by TPF, and
+assigned a manager for the duration of the grant to act as a
+liaison between the grantee and TPF. This manager is usually
+a member of the Grants Committee.
 
-For a current list of members, see the _W_h_o_'_s_ _W_h_o page.
+For a current
+list of members, see the
+[Who's Who](committees.html) page.
 
-The Grants Committee is an important interface between TPF, the Perl and Raku
-communities, and the companies and developers that use these languages in their
-software and processes. As the grants bring about enhancements to the languages
-and their ecosystems, _t_h_o_s_e_ _c_o_m_p_a_n_i_e_s_ _w_h_o_ _p_r_o_v_i_d_e_ _s_p_o_n_s_o_r_s_h_i_p also gain
-satisfaction that they have directly contributed to the improvement of the Perl
-and Raku languages (while reaping the tax benefits of their donation).
+The
+Grants Committee is an important interface between TPF, the
+Perl and Raku communities, and the companies and developers
+that use these languages in their software and processes. As
+the grants bring about enhancements to the languages and
+their ecosystems,
+[those companies who provide sponsorship](our-donors.html) also gain satisfaction that they have directly
+contributed to the improvement of the Perl and Raku
+languages (while reaping the tax benefits of their
+donation).
 
-Ready to dive in and help out? Choose your idea, _l_e_a_r_n_ _h_o_w_ _t_o_ _w_r_i_t_e_ _a_ _p_r_o_p_o_s_a_l,
-and get busy!
-===============================================================================
-********** YYeett AAnnootthheerr SSoocciieettyy          Donations keep the Perl & Raku Foundation
-((DDBBAA)) TThhee PPeerrll AAnndd RRaakkuu FFoouunnddaattiioonn alive and we appreciate all of our donors,
-444400 NN BBaarrrraannccaa AAvvee                 past, present, and future.
-##66005555 CCoovviinnaa,, CCAA
-9911772233 UUNNIITTEEDD SSTTAATTEESS                ???You can donate online or send a check with
-                                   your contribution.
-eemmaaiill::_ _[[_ee_mm_aa_ii_ll_? _pp_rr_oo_tt_ee_cc_tt_ee_dd_]] **********     ???Click Donate to get started.
-                                   _D_o_n_a_t_e
+Ready to dive in and help out? Choose
+your idea,
+[learn how to write a proposal](how-to-write-a-proposal.html), and get busy!
