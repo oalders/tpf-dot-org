@@ -26,7 +26,7 @@ title = 'My New Hugo Site'
   [[menu.main]]
   parent = "about"
   name = "The Board"
-  url = "/the-board1.html"
+  url = "/the-board.html"
   weight = 2
 
   [[menu.main]]
