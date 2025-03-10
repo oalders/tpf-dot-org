@@ -60,6 +60,7 @@ END_FRONTMATTER
                     rules => {
                         a   => [qw( href )],
                         br  => [],
+                        h2 => [],
                         img => [qw( src alt / )],
                         li  => [],
                         ul  => [],
@@ -71,6 +72,8 @@ END_FRONTMATTER
 
                 $plain_dom->find('br')
                     ->each( sub { my $br = shift; $br->replace("\n"); } );
+                $plain_dom->find('h2')
+                    ->each( sub { my $h = shift; $h->replace('## ' . trim($h->content)); } );
 
                 # Convert "a" elements to markdown links
                 $plain_dom->find('a')->each(
