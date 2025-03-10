@@ -58,20 +58,33 @@ END_FRONTMATTER
                 # Remove all tags using HTML::Restrict
                 my $hr = HTML::Restrict->new(
                     create_newlines => 1,
-                    rules => {
-                        a   => [qw( href )],
-                        h2 => [],
-                        img => [qw( src alt / )],
-                        li  => [],
-                        ul  => [],
+                    rules           => {
+                        a      => [qw( href )],
+                        h3     => [],
+                        img    => [qw( src alt / )],
+                        li     => [],
+                        strong => [],
+                        ul     => [],
                     }
                 );
                 my $plain_text = $hr->process($inner_html);
 
                 my $plain_dom = Mojo::DOM->new($plain_text);
 
-                $plain_dom->find('h2')
-                    ->each( sub { my $h = shift; $h->replace('## ' . trim($h->content)); } );
+                $plain_dom->find('h2')->each(
+                    sub {
+                        my $h = shift;
+                        $h->replace( '## ' . trim( $h->content ) );
+                    }
+                );
+
+                # strong seems to be used in the same was as a third level heading.
+                $plain_dom->find('strong')->each(
+                    sub {
+                        my $h = shift;
+                        $h->replace( "\n### " . trim( $h->content ) );
+                    }
+                );
 
                 # Convert "a" elements to markdown links
                 $plain_dom->find('a')->each(
