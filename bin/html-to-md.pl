@@ -57,9 +57,9 @@ END_FRONTMATTER
 
                 # Remove all tags using HTML::Restrict
                 my $hr = HTML::Restrict->new(
+                    create_newlines => 1,
                     rules => {
                         a   => [qw( href )],
-                        br  => [],
                         h2 => [],
                         img => [qw( src alt / )],
                         li  => [],
@@ -70,8 +70,6 @@ END_FRONTMATTER
 
                 my $plain_dom = Mojo::DOM->new($plain_text);
 
-                $plain_dom->find('br')
-                    ->each( sub { my $br = shift; $br->replace("\n"); } );
                 $plain_dom->find('h2')
                     ->each( sub { my $h = shift; $h->replace('## ' . trim($h->content)); } );
 
