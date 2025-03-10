@@ -68,6 +68,10 @@ END_FRONTMATTER
                     }
                 );
                 my $plain_text = $hr->process($inner_html);
+                $plain_text =~ s/\x{200B}//g;    # zero width space
+
+                my @lines = map { trim($_) } split "\n", $plain_text;
+                $plain_text = join "\n", @lines;
 
                 my $plain_dom = Mojo::DOM->new($plain_text);
 
