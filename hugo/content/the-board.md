@@ -13,7 +13,7 @@ peer support and offer assistance and guidance.
 The board is self-electing, and usually draws its
 candidates from active volunteers. It is led by the
 President who is appointed by the board and is typically
-an existing board member.  The Treasurer manages
+an existing board member.  The Treasurer manages
 financial operations.
 
 Board members are asked to serve a two-year
@@ -79,7 +79,7 @@ Held role since
 2019
 Email
 
-[[email protected]](cdn-cgi/l/email-protection.html#6b1b190e18020f0e051f2b1b0e19070d041e050f0a1f0204054504190c)
+[[email protected]](cdn-cgi/l/email-protection.html#6b1b190e18020f0e051f2b1b0e19070d041e050f0a1f0204054504190c)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/published/stuart.png%3F1680035988)]
 
@@ -97,7 +97,7 @@ role since
 2020
 Email
 
-[[email protected]](cdn-cgi/l/email-protection.html#4c383e292d3f393e293e0c3c293e202a233922282d3825232262233e2b)
+[[email protected]](cdn-cgi/l/email-protection.html#4c383e292d3f393e293e0c3c293e202a233922282d3825232262233e2b)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/krawczyk23bw_orig.jpg)]
 
@@ -116,17 +116,17 @@ role since
 2017
 Email
 
-[[email protected]](cdn-cgi/l/email-protection.html#7e131f15110a113e0e1b0c1218110b101a1f0a17111050110c19)
+[[email protected]](cdn-cgi/l/email-protection.html#7e131f15110a113e0e1b0c1218110b101a1f0a17111050110c19)
 
 [![Picture](/images/uploads/1/0/6/6/106663517/published/makoto.jpg%3F1680035961)]
 
 Todd Rinaldo
 
-Todd has been programming for 40 years and
+Todd has been programming for 40 years and
 coding Perl since his first Perl programming
 class in 1995. He's been a resident of
 Houston, TX most of his life, and has been
-active in the Houston Perl Mongerers
+active in the Houston Perl Mongerers
 since 2006. Todd is married and has one son.
 In addition to his volunteer work at TPRF,
 Todd also donates significant time to The

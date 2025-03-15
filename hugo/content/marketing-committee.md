@@ -4,6 +4,7 @@ url:   "/marketing-committee.html"
 ---
 Marketing Committee Charter
 ### 1. Purpose
+
 The Marketing
 Committee shall manage all Yet Another Society operations
 related to marketing for The Perl & Raku Foundation. It
@@ -25,6 +26,7 @@ that are consistent with Yet Another Society's tax exempt
 status.
 
 ### 2. Objectives
+
 The
 Committee shall support the following specific tasks:
 
@@ -39,6 +41,7 @@ The Board of Directors may add or remove tasks from time to
 time.
 
 ### 3. Membership
+
 The
 Committee shall consist of at least two and at most eleven
 members. The Board of Directors shall always have at least
@@ -66,6 +69,7 @@ removal of a member, the Committee shall elect a new
 member.
 
 ### 4. Meetings & Reports
+
 The members of the Committee must meet at least once
 per year. Due to the international nature of the committee,
 these meetings will be held via email. The Committee shall
@@ -73,5 +77,6 @@ provide a report of all recent operations at least once
 every three months.
 
 ### 5. Duration
+
 The Committee shall serve until dissolved by the
 board of directors.

@@ -14,10 +14,10 @@ Foundation News a call for grant proposals is published
 with detailed dates.
 
 For a list of members, see
-the [Who's Who](committees.html)
+the [Who's Who](committees.html)
 
 Grants Committee Charter
-1. Purpose
+1. Purpose
 The Grants Committee shall manage all Yet Another Society
 operations related to grants issued under The Perl
 Foundation. It shall be granted all powers granted to the
@@ -38,7 +38,7 @@ The Committee shall be restricted to only those
 activities that are consistent with Yet Another Society's
 tax exempt status.
 
-2. Objectives
+2. Objectives
 The Committee shall support the following specific
 tasks:
 
@@ -48,7 +48,7 @@ Grant Management
 The Board of Directors may add or remove tasks from time
 to time.
 
-3. Membership
+3. Membership
 The Committee shall consist of at least one and at most
 eleven members. The Board of Directors shall always have
 at least one representative on the committee. The
@@ -66,14 +66,14 @@ removed, or replaced by the Board of Directors. In the
 event of the death, resignation, or removal of a member,
 the Committee shall be elected a new member.
 
-4. Meetings and Reports
+4. Meetings and Reports
 The members of the Committee must meet at least once per
 year. Due to the international nature of the Committee,
 these meetings will be held via email. It shall provide a
 report of all recent operations at least once every three
 months.
 
-5. Duration
+5. Duration
 The Committee shall serve until dissolved by the Board of
 Directors.
 
@@ -103,7 +103,7 @@ evaluation is stalled. The standard process will resume
 when funds are available, and a note will be published
 to the community.
 
-2. Grantees, Proposals, and Grant Managers
+2. Grantees, Proposals, and Grant Managers
 
 Each grantee will have a Grant Manager appointed to them
 to monitor the progress of the grant. Grant Managers
@@ -121,7 +121,7 @@ community.
 
 Grantees must request an interim payment of up to half
 the grant amount during the grant period. Such payments
-must be approved by the Grants Committee.
+must be approved by the Grants Committee.
 
 Grantees must provide a monthly report, even if no
 progress has been made. This report may be published to
@@ -132,7 +132,7 @@ months, or if no progress is made for four months, the
 grant will be considered a failure and will be closed
 without further payment.
 
-3. Grants Committee Voting Schema
+3. Grants Committee Voting Schema
 
 A grant vote shall not be valid unless at least 2/3 of
 the members vote.
@@ -145,9 +145,9 @@ be ranked according to the sum of the votes.
 
 Accordingly with the available funds, the Grants
 Committee will agree on how many of the
-approved proposals to fund.
+approved proposals to fund.
 
-4. Structure
+4. Structure
 
 The Grants Committee assigns a Grant Manager to each
 approved and funded grant
@@ -178,9 +178,9 @@ The Secretary does not normally cast votes in the
 approval process, but will vote if a tie results
 from the initial round of voting.
 
-5. Amendments and Exceptions
+5. Amendments and Exceptions
 
-Changes to these rules must be approved by 2/3 of
+Changes to these rules must be approved by 2/3 of
 the Grants Committee and by the TPF Board of Directors.
 
 In special circumstances exceptions to these rules may

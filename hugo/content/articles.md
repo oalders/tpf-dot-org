@@ -4,15 +4,18 @@ url:   "/articles.html"
 ---
 ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY
 ### ARTICLES OF INCORPORATION OF YET ANOTHER SOCIETY
+
 Pursuant to the provisions of the Michigan Nonprofit
 Corporations Act, Act 162, Public Acts of 1982 (the "Act"),
 as amended, corporation executes the following articles:
 
 ### ARTICLE I
+
 The name of the corporation is Yet Another
 Society.
 
 ### ARTICLE II
+
 The
 purpose for which the corporation is organized is to create
 opportunities and provide support for the advancement of
@@ -20,6 +23,7 @@ collaborative efforts in Computer Science and Information
 Technology.
 
 ### ARTICLE III
+
 The
 corporation is organized on a non-stock, directorship basis.
 The corporation possesses the following assets:
@@ -34,6 +38,7 @@ and income from activities related to the corporation's
 purpose as described in Article II.
 
 ### ARTICLE IV
+
 The address of the initial registered office is 170
 College Avenue, Suite 230, Holland, Michigan, 49423.
 
@@ -45,6 +50,7 @@ The name of the initial resident agent at
 the registered office is Kurtis DeMaagd.
 
 ### ARTICLE V
+
 The name and address of the incorporator is:
 
 Kurtis
@@ -52,6 +58,7 @@ DeMaagd, 170 College Avenue, Suite 230, Holland, Michigan,
 49423.
 
 ### ARTICLE VI
+
 No part
 of the net earnings of the corporation shall inure to the
 benefit of, or be distributable to, its directors, officers,
@@ -75,6 +82,7 @@ deductible under section IRC 170(c)(2) or the corresponding
 section of any future federal tax code.
 
 ### ARTICLE VII
+
 On dissolution of the corporation, after paying or
 providing for the payment of all of the liabilities of the
 corporation, the corporation's assets shall be distributed
@@ -90,6 +98,7 @@ and that are organized and operated exclusively for such
 purposes.
 
 ### ARTICLE VIII
+
 When
 a compromise, an arrangement, or a plan of reorganization is
 proposed between this corporation and its creditors, a court
@@ -106,6 +115,7 @@ be binding on all the creditors, and also on this
 corporation.
 
 ### ARTICLE IX
+
 No
 member of the board of directors of the corporation who is a
 volunteer director, as that term is defined in the Michigan
@@ -161,6 +171,7 @@ occurring before the effective date of any such amendment or
 repeal.
 
 ### ARTICLE X
+
 The
 corporation assumes the liability for all acts or omissions
 of a nondirector volunteer if all of the following

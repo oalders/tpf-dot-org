@@ -10,10 +10,10 @@ discussion, collaboration, design, and code.
 The Foundation also coordinates
 the efforts of numerous grass-roots
 Perl-based groups and organisations. These
-include [The Perl Conference](https://perlconference.us/).
+include [The Perl Conference](https://perlconference.us/).
 
-We also carry the legal responsibility
-for [Perl 5](http://www.perl.org/get.html), [Raku](http://dev.perl.org/perl6/), [perl.org](http://www.perl.org/), [Perl Mongers](http://www.pm.org/), and [PerlMonks](http://www.perlmonks.org/).
+We also carry the legal responsibility
+for [Perl 5](http://www.perl.org/get.html), [Raku](http://dev.perl.org/perl6/), [perl.org](http://www.perl.org/), [Perl Mongers](http://www.pm.org/), and [PerlMonks](http://www.perlmonks.org/).
 
 Affiliates
 [Perl.com](http://www.perl.com/)

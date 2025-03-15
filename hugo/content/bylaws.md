@@ -3,10 +3,11 @@ title: "Bylaws - The Perl and Raku Foundation"
 url:   "/bylaws.html"
 ---
 TPF Bylaws
-### BYLAWS OF YET ANOTHER SOCIETY
+### BYLAWS OF YET ANOTHER SOCIETY
 
 ### ARTICLE I
 OFFICES
+
 1.01 Principal Office. The principal office of the
 corporation shall be at such place within the state of
 Michigan as the board of directors may determine from time
@@ -16,11 +17,13 @@ Michigan.
 
 ### ARTICLE II
 MEMBERS
+
 There
 shall be no members.
 
 ### ARTICLE III
 BOARD
+
 3.01 General Powers. The business, property, and
 affairs of the corporation shall be managed by the board of
 directors.3.02 Number. There shall be not less than one (1)
@@ -91,6 +94,7 @@ Board's proceeding.
 
 ### ARTICLE IV
 COMMITTEES
+
 4.01
 General Powers. The board, by resolution adopted by a vote
 of a majority of its directors, may designate one or more
@@ -135,6 +139,7 @@ committee's proceedings.
 
 ### ARTICLE V
 OFFICERS
+
 5.01
 Number. The officers of the corporation shall be appointed
 by the board. The officers shall be a president, a
@@ -216,6 +221,7 @@ assigned by the president or the board.
 ### ARTICLE VI
 CORPORATE DOCUMENT
 PROCEDURE
+
 All corporate documents (including stocks, bonds,
 agreements, insurance and annuity contracts, qualified and
 nonqualified deferred compensation plans, checks, notes,
@@ -226,6 +232,7 @@ bylaws.
 
 ### ARTICLE VII
 INDEMNIFICATION
+
 7.01 Nonderivative Actions. Subject to all of the
 other provisions of this article, the corporation shall
 indemnify any person who was or is a party, or is threatened
@@ -389,6 +396,7 @@ change.
 
 ### ARTICLE VIII
 COMPENSATION
+
 When authorized by the board, a person shall be
 reasonably compensated for services rendered to the
 corporation as an officer, director, employee, agent, or
@@ -397,11 +405,13 @@ bylaws.
 
 ### ARTICLE IX
 FISCAL YEAR
+
 The
 fiscal year of the corporation shall end on December 31.
 
 ### ARTICLE X
 AMENDMENTS
+
 The
 board of directors at any regular or special meeting may
 amend or repeal these bylaws, or adopt new bylaws by vote of

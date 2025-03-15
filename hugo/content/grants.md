@@ -21,6 +21,7 @@ to help but are stuck for ideas? There's a
 from our community of grant ideas to choose from.
 
 ### About the Committee
+
 The Grants Committee was formed in 2003 to oversee
 the allocation of grant funding within The Perl Foundation.
 The individuals chosen to be committee members represent a
@@ -49,7 +50,7 @@ Perl and Raku communities, and the companies and developers
 that use these languages in their software and processes. As
 the grants bring about enhancements to the languages and
 their ecosystems,
-[those companies who provide sponsorship](our-donors.html) also gain satisfaction that they have directly
+[those companies who provide sponsorship](our-donors.html) also gain satisfaction that they have directly
 contributed to the improvement of the Perl and Raku
 languages (while reaping the tax benefits of their
 donation).

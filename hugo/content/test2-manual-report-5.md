@@ -9,10 +9,9 @@ January 8, 2017
 Chad Granun reports on
 his work on the Test2 Manual grant. The last month was
 devoted to:
-* How to list the test tools in the modules
-dependencies;
-* Tutorial for TODO tests;
-* Tutorial for advanced test planning.
+-   How to list the test tools in the modules dependencies;
+-   Tutorial for TODO tests;
+-   Tutorial for advanced test planning.
 
 ### Categories:
 [Grants](grants.html)

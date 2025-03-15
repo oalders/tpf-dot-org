@@ -22,14 +22,15 @@ lack the human resources or infrastructure to do so on
 their own.
 
 ### Terminology
-* “Foundation” or “The Foundation” refers to Yet
-Another Society (YAS), also doing business as The
-Perl Foundation (TPF), The Raku Foundation (TRF) and
-The Perl and Raku Foundation (TPRF).
-* “Board” refers to the duly appointed Board of
-Directors of Yet Another Society.
+
+-   "Foundation" or "The Foundation" refers to Yet Another Society
+    (YAS), also doing business as The Perl Foundation (TPF), The Raku
+    Foundation (TRF) and The Perl and Raku Foundation (TPRF).
+-   "Board" refers to the duly appointed Board of Directors of Yet
+    Another Society.
 
 ### What the Foundation will provide
+
 The primary benefit will be a fund designated for use
 only with the project. Donors to this fund will benefit
 from the Foundation’s 501(c)(3) status. This potentially
@@ -43,6 +44,7 @@ A donation link will be provided on our website for
 your fund.
 
 ### How the fund works
+
 Funds are contributed to the Foundation with the
 intended project specified as part of the donation.
 These funds are then available for use in the
@@ -68,6 +70,7 @@ money is made available to the fund, it can be used by
 the officers as they see fit.
 
 ### How can officers be changed
+
 Occasionally the leadership of a project may change and
 the officers of the fund may need to change
 accordingly.
@@ -82,6 +85,7 @@ it will be assumed they agree with the proposed
 change.
 
 ### Project Sunset
+
 Termination of the fund may happen for the following
 reasons.
 
@@ -98,6 +102,7 @@ transferred to the general board fund for use by the
 Board at their discretion.
 
 ### How to Request Creation of a Fund
+
 Interested communities/projects would apply to the
 Foundation through the following
 [Google](https://forms.gle/HLr5ByRLhmR5etNa8)[form](https://forms.gle/HLr5ByRLhmR5etNa8).
@@ -108,6 +113,7 @@ Foundation adopts, as well as the judgments issued by
 the Foundation.
 
 ### Requirements
+
 For the Foundation to support a project, we require the
 project to present a petition to the board specifying
 the following details.
@@ -154,6 +160,7 @@ Foundation’s COC becomes less permissive, the
 project’s COC must be updated as well.
 
 ### What happens after you are approved
+
 A fund or sub-fund will be established in the name of
 the project by the Foundation.
 Funds are transferred by the participating project to
@@ -163,7 +170,6 @@ Foundation as authorized to direct spending from this
 fund. The process by which funds are authorized by the
 project are to be determined by each project
 independently.
-* Your project will be listed as supported by the
-Foundation on our website.
-* A donation link will be provided on our website for your
-fund.
+-   Your project will be listed as supported by the Foundation on our
+    website.
+-   A donation link will be provided on our website for your fund.

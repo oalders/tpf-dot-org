@@ -39,6 +39,7 @@ The application must be endorsed by one or more
 people with commit rights to the Perl core.
 
 ### Approval Process
+
 Once an application has been received, and confirmed as
 matching the initial requirements, it will be published on
 The Perl Foundation News site for a period of community
@@ -53,6 +54,7 @@ Grants Committee in consultation with other members
 Steering Council.
 
 ### License and Release
+
 Any code created, modified or submitted during the period
 of the grant must be released as open source under the
 same license terms as Perl itself. Completed work must be
@@ -90,6 +92,7 @@ In the case of a dispute that cannot be resolved the
 grant will be terminated.
 
 ### Termination of Grant
+
 As previously stated, missing two reports in a row
 without prior notice will suspend the grant. Payment will
 be made for the work completed to date. For time based
@@ -100,11 +103,13 @@ completed milestone.
 Management of Fund
 
 ### Administration Costs
+
 The administration costs of running the fund, including
 the wire transfer fees, will be taken from the
 fund.
 
 ### Review
+
 The structure of this fund may be amended at the
 discretion of the The Perl Foundation Board, in
 consultation with the Perl core team. Any changes made to
@@ -113,6 +118,7 @@ the Grants Committee and the grantee agree to such a
 change.
 
 ### Termination
+
 If a period of one year has elapsed with no grants in
 progress and no new applications, the remaining funds will
 be transferred to The Perl Foundation’s general
@@ -127,58 +133,70 @@ Perl Core Development Grant Application Form
 tpf-grants-secretary(at)perlfoundation.org.)
 
 ### Name:
+
 (Your full name and irc
 nickname.)
 
 ### Email & Contact Information:
+
 (This information will not be made public but is
 required for the Foundation grant approval and payment of
 any funds.)
 
 ### Project Title:
+
 (How the grant
 will be known.)
 
 ### Synopsis:
+
 (A brief description of
 your grant application.)
 
 ### Benefits to Perl Core:
+
 (How your
 work will specifically benefit the Perl core.)
 
 ### Deliverable Elements:
 
 ### Project Details:
+
 (A more detailed
 description.)
 
 ### Project Schedule:
+
 (Please be as
 realistic as possible.)
 
 ### Bio.:
+
 (Who are you? What makes you
 the best person to work on this project?)
 
 ### Endorsed by:
 
 ### Country of Residence:
+
 (Current country of residence, please note if you
 intend to move during the grant process and can provide
 details please do so.)
 
 ### Nationality:
+
 (Residents and
 nationals of countries who we are prohibited by U.S. law
 from engaging in commerce, are ineligible to participate.
 This information will not be made public.)
 
 ### Amount Requested:
+
 (In USD
 ($))
 
 ### Suggestions for Grant Manager:
+
 (Please make suggestions as to who would be willing to
 manage this grant bearing in mind that if you do not have
 commit access that your Grant Manager from the Perl Core

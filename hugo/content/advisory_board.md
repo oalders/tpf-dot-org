@@ -3,7 +3,8 @@ title: "Advisory board - The Perl and Raku Foundation"
 url:   "/advisory_board.html"
 ---
 Advisory Board
-### Important!:This is a new
+### Important!:
+This is a new
 board and is currently being formed. A full
 list of members and their details will be
 published shortly!
@@ -53,9 +54,9 @@ strictly by invitation only.
 
 Who is on the Advisory Board?
 
-* Allison Randal
-* Dan Wright
-* Nat Torkington
+-   Allison Randal
+-   Dan Wright
+-   Nat Torkington
 
 How does one leave the Advisory Board?
 

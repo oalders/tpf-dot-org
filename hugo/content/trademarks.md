@@ -4,20 +4,20 @@ url:   "/trademarks.html"
 ---
 Trademark InformationThe work of The Perl & Raku Foundation includes making
 sure that Perl
-& Raku code and documentation are free and open for all to use,
+& Raku code and documentation are free and open for all to use,
 and remain free and open for all to use. One of the many
-ways we do this is through Perl & Raku trademarks. The Perl
-& Raku trademarks are tools we can use to identify Perl & Raku code, documentation, projects, and other material
-originating with Perl & Raku, or licensees who agree to and follow certain
+ways we do this is through Perl & Raku trademarks. The Perl
+& Raku trademarks are tools we can use to identify Perl & Raku code, documentation, projects, and other material
+originating with Perl & Raku, or licensees who agree to and follow certain
 requirements.
 
 But our responsibility is also
 partly the responsibility of the Perl
-& Raku communities.
+& Raku communities.
 
-By helping us protect the Perl & Raku trademarks, you help us protect the openness and
+By helping us protect the Perl & Raku trademarks, you help us protect the openness and
 integrity of the Perl
-& Raku languages.
+& Raku languages.
 
 These guidelines are intended to
 cover general situations, in a general way.
@@ -32,7 +32,7 @@ Any individual, organization, or company may use the
 "Powered by Perl" or "Programming Republic of Perl" logos
 to show support for Perl or as part of a notice to users
 that your product or website runs on Perl. On websites,
-these logos should always link to [http://www.perl.org](http://www.perl.org/). These logos may not be used on product packaging or to
+these logos should always link to [http://www.perl.org](http://www.perl.org/). These logos may not be used on product packaging or to
 promote products and services, or to create the impression
 of an endorsement or certification by TPRF.
 
@@ -61,7 +61,7 @@ the organizations themselves, and doesn't extend to
 individual members.
 
 Representatives of the
-organizations should contact us at [[email protected]](cdn-cgi/l/email-protection.html#f084829194959d91829bb08095829c969f859e949184999f9ede9f8297) to obtain high-resolution versions of the Perl
+organizations should contact us at [[email protected]](cdn-cgi/l/email-protection.html#f084829194959d91829bb08095829c969f859e949184999f9ede9f8297) to obtain high-resolution versions of the Perl
 logo, and answers to any questions they have about use of
 the logo.
 
@@ -74,7 +74,7 @@ Use of Perl Marks by YAPC
 The affiliated YAPC conferences around the world may use
 the Perl logo on their websites or materials promoting the
 conferences with prior written permission from TPF.
-Contact [[email protected]](cdn-cgi/l/email-protection.html#2551574441404844574e6555405749434a504b4144514c4a4b0b4a5742) for permission, and once permission is granted, for
+Contact [[email protected]](cdn-cgi/l/email-protection.html#2551574441404844574e6555405749434a504b4144514c4a4b0b4a5742) for permission, and once permission is granted, for
 high-resolution versions of the Perl logo.
 
 [![Picture](/images/uploads/1/0/6/6/106663517/perl-logo-32x104_1.png)]
@@ -84,12 +84,12 @@ Perl Marks Available for Perl Redistributors
 Licensed redistributors of Perl code are permitted by
 their licenses to use the Perl logo in connection with
 their distribution services, on product packaging, and in
-promotional materials. Contact [[email protected]](cdn-cgi/l/email-protection.html#0e7a7c6f6a6b636f7c654e7e6b7c6268617b606a6f7a67616020617c69) for more information on becoming a licensed Perl
+promotional materials. Contact [[email protected]](cdn-cgi/l/email-protection.html#0e7a7c6f6a6b636f7c654e7e6b7c6268617b606a6f7a67616020617c69) for more information on becoming a licensed Perl
 redistributor.
 
 Other Uses
 
-For any other uses, contact us at [[email protected]](cdn-cgi/l/email-protection.html#7b0f091a1f1e161a09103b0b1e09171d140e151f1a0f1214155514091c) to discuss your proposal.
+For any other uses, contact us at [[email protected]](cdn-cgi/l/email-protection.html#7b0f091a1f1e161a09103b0b1e09171d140e151f1a0f1214155514091c) to discuss your proposal.
 
 Use Guidelines
 
@@ -139,7 +139,7 @@ determined based not only on making a comparison of the
 marks side-by-side, but also on making a comparison of the
 contexts in which they are actually used. Thus, it's easy to
 imagine independent onions that would be fine, and
-independent onions that might not be. Contact us at [[email protected]](cdn-cgi/l/email-protection.html#dbafa9babfbeb6baa9b09babbea9b7bdb4aeb5bfbaafb2b4b5f5b4a9bc) if you have any questions, or would like us to
+independent onions that might not be. Contact us at [[email protected]](cdn-cgi/l/email-protection.html#dbafa9babfbeb6baa9b09babbea9b7bdb4aeb5bfbaafb2b4b5f5b4a9bc) if you have any questions, or would like us to
 evaluate a particular logo or usage to see if it would be an
 infringement.
 

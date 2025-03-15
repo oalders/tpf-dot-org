@@ -4,6 +4,7 @@ url:   "/license-faq.html"
 ---
 License FAQ
 ### Why has TPF adopted a CLA process?
+
 We
 all know that code needs to be documented with a certain
 amount of care and accuracy. Good documentation benefits
@@ -32,6 +33,7 @@ re-purposed to keep open source code freely available.
 
 ### Do companies who want to contribute material created by
 their employees need to use a special CLA form?
+
 No. However, in addition to signing the CLA on its
 own behalf, a contributing company (or other organization)
 should have each contributing employee sign a CLA, in case
@@ -45,6 +47,7 @@ jurisdiction to jurisdiction.
 
 ### As an employee, do I need to have my employer sign a CLA
 for my contribution?
+
 No. However, if your employer does own intellectual
 property rights in your work, having your employer sign a
 CLA is a good way to confirm that you and your employer
@@ -57,6 +60,7 @@ the employer's rights, in order to make the contribution.
 
 ### Do I have to list any, or all, of my prior contributions?
 That could be impossible.
+
 You are not required to list any of your prior
 contributions. However, as part of the TPF process for
 documenting contribution licenses, we may ask you to list
@@ -65,6 +69,7 @@ on the schedule on your own, if you would like to do so.
 
 ### Why are patents treated separately from other
 intellectual property?
+
 Patents are treated separately because the legal
 rules for patents are significantly different from the rules
 for other kinds of intellectual property. One goal of the

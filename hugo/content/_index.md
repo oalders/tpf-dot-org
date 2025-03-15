@@ -10,12 +10,14 @@ THROUGH OPEN DISCUSSION, COLLABORATION, DESIGN, AND CODE.
 
 [🤔🤔🤔 ](https://twitter.com/perlfoundation)[🤔🤔🤔 ](https://www.facebook.com/tpf.perl/)[🤔🤔🤔 ](https://www.instagram.com/perl_events/)[🤔🤔🤔 ](https://www.youtube.com/channel/UCd9Fs_oZBMmTUWKJKuR_qdg/videos)[🤔🤔🤔 ](https://www.linkedin.com/groups/39178/)
 ### get STARTED
+
 [Perl](https://perl.org/get.html)
 [RAKU](https://www.raku.org/)
 
 [Donate](https://www.z2systems.com/np/clients/perlfoundation/donation.jsp)
 
 ### Affiliates
+
 [Perl.com](https://www.perl.com)
 [Perl.org](https://www.perl.org/)
 [Perl Merch](https://the-perl-store.creator-spring.com/)
@@ -35,7 +37,7 @@ new prospectus
 
 The Perl Foundation accepts donations from organizations
 that depend on Perl or Raku, and from individuals who love
-programming with the Perl or Raku languages. Our desire
+programming with the Perl or Raku languages. Our desire
 is to build a strong, healthy and sustainable language
 ecosystem and community.
 

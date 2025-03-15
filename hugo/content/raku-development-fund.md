@@ -40,6 +40,7 @@ The application must be endorsed by one or more
 people in Raku Steering Council.
 
 ### Approval Process
+
 Once an application has been received, and confirmed as
 matching the initial requirements, it will be published
 on The Perl Foundation blog for a period of community
@@ -56,6 +57,7 @@ members of the Raku development and Raku Steering
 Council.
 
 ### License and Release
+
 Any code created, modified or submitted during the
 period of the grant must be released as open source
 under
@@ -88,6 +90,7 @@ In the case of a dispute that cannot be resolved
 the grant will be terminated.
 
 ### Termination of Grant
+
 As previously stated, missing two reports in a row
 without prior notice will suspend the grant. Payment
 will be made for the work completed to date. For
@@ -98,6 +101,7 @@ last completed milestone.
 Management of Fund
 
 ### Administration Costs
+
 The administration costs of running the fund, including
 the wire transfer fees, will be taken from the
 fund.
@@ -112,6 +116,7 @@ The Perl Foundation and the grantee agree to such a
 change.
 
 ### Termination
+
 If a period of one year has elapsed with no grants in
 progress and no new applications, the remaining funds
 will be transferred to the TPF general fund.
@@ -121,27 +126,33 @@ In order to apply for a grant under this fund the
 following Grant Application form must be completed.
 
 ### Raku Development Fund Grant Application Form
+
 (Please submit all areas of the completed form to
 hello(at)perlfoundation.org.)
 
 ### Name:
+
 (Your full name and irc
 nickname.)
 
 ### Email & Contact Information:
+
 (This information will not be made public but is
 required for the Foundation grant approval and payment of
 any funds.)
 
 ### Project Title:
+
 (How the grant will
 be known.)
 
 ### Synopsis:
+
 (A brief description of
 your grant application.)
 
 ### Benefits to Raku Development:
+
 (How
 your work will specifically benefit the development of
 Raku.)
@@ -149,35 +160,42 @@ Raku.)
 ### Deliverable Elements:
 
 ### Project Details:
+
 (A more detailed
 description.)
 
 ### Project Schedule:
+
 (Please be as
 realistic as possible.)
 
 ### Bio.:
+
 (Who are you? What makes you
 the best person to work on this project?)
 
 ### Endorsed by:
 
 ### Country of Residence:
+
 (Current
 country of residence, please note if you intend to move
 during the grant process and can provide details please do
 so.)
 
 ### Nationality:
+
 (Residents and
 nationals of countries who we are prohibited by U.S. law
 from engaging in commerce, are ineligible to participate.
 This information will not be made public.)
 
 ### Amount Requested:
+
 (In USD
 ($))
 
 ### Suggestions for Grant Manager:
+
 (Please make suggestions as to who would be willing
 to manage this grant)

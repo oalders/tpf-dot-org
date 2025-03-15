@@ -9,9 +9,8 @@ November 13, 2016
 Chad continues
 working on the Test 2 Manual, with the following
 news:
-* Introduction to testing with Test2 tutorial
-* Tutorial for converting from Test::More to
-Test2
+-   Introduction to testing with Test2 tutorial
+-   Tutorial for converting from Test::More to Test2
 
 (edited 2020-09-02 - manual content merged with Test2
 proper)
