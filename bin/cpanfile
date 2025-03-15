@@ -1,1 +1,2 @@
 requires 'HTML::Restrict';
+requires 'Pandoc';
